@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=JetBrains+Mono
+    &size=28
+    &duration=3000
+    &pause=800
+    &color=7C3AED
+    &center=true
+    &vCenter=true
+    &width=800
+    &lines=curiosity+%3E+comfort;
+    I+turn+questions+into+commits;
+    building+things+I+don%E2%80%99t+fully+understand+%28yet%29"
+  />
+</p>
+
 # 💫 About Me
 
 I'm a 3rd-year **B.Tech. Computer Science & Engineering** student.  
