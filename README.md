@@ -1,20 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300 clarify=auto" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-?font=JetBrains+Mono
-&size=28
-&duration=3000
-&pause=800
-&color=7C3AED
-&center=true
-&vCenter=true
-&width=800
-&lines=curiosity+%3E+comfort
-&lines=I+turn+questions+into+commits
-&lines=building+things+I+don%27t+fully+understand+(yet)" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=800&lines=curiosity+%3E+comfort&lines=I+turn+questions+into+commits&lines=building+things+I+don%27t+fully+understand+(yet)" />
 </p>
 
 # 💫 About Me
@@ -55,8 +44,15 @@ Currently working on **Slotify** — a centralized appointment booking platform.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshhthakkar&show_icons=true&theme=transparent&cache_seconds=86400)
-![GitHub Streak](https://streak-stats.demolab.com?user=akshhthakkar&theme=dark-smoky&hide_border=false&border=444444&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshhthakkar&show_icons=true&theme=transparent&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akshhthakkar&theme=dark-smoky&hide_border=false&border=444444&cache_seconds=86400" />
+</p>
+
+> Stats sometimes nap. Shipping doesn’t.
 
 ---
 
