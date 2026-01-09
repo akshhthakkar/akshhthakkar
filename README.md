@@ -55,8 +55,8 @@ Currently working on **Slotify** — a centralized appointment booking platform.
 
 ## 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/akshhthakkar?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akshhthakkar)](https://git.io/streak-stats)
+![Aksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshhthakkar&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=akshhthakkar&theme=transparent&hide_border=true)
 
 ---
 
