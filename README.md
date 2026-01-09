@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=800&lines=curiosity+%3E+comfort&lines=I+turn+questions+into+commits&lines=building+things+I+don%27t+fully+understand+(yet)" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3200&pause=1200&color=9CA3AF&center=true&vCenter=true&width=900&lines=Make+it+work%2C+then+make+it+right%2C+then+make+it+fast.&lines=%E2%80%94+Kent+Beck" />
 </p>
 
 # 💫 About Me
