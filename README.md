@@ -63,16 +63,16 @@ Currently working on **Slotify** — a centralized appointment booking platform.
   </picture>
 
   <picture>
-    <source
-      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=akshhthakkar&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=86400"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=akshhthakkar&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=86400"
-      height="190"
-      alt="Top Languages"
-    />
-  </picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=default&hide_border=true&background=F6F8FA"
+    height="190"
+    alt="GitHub Streak"
+  />
+</picture>
 </div>
 
 <picture>
