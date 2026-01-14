@@ -47,27 +47,41 @@ Currently working on **Slotify** — a centralized appointment booking platform.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=akshhthakkar&show_icons=true&theme=transparent&cache_seconds=172800"
-    alt="GitHub Stats"
+<div align="center">
+  <br/>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api?username=akshhthakkar&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=akshhthakkar&show_icons=true&theme=default&hide_border=true&bg_color=F6F8FA&cache_seconds=86400"
+      height="190"
+      alt="GitHub Stats"
+    />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=akshhthakkar&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=akshhthakkar&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=86400"
+      height="190"
+      alt="Top Languages"
+    />
+  </picture>
+</div>
+
+<picture>
+  <source
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:C7154A,100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I%E2%80%99m%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=efefef&descAlignY=54&animation=fadeIn&descAlign=50"
+    media="(prefers-color-scheme: dark)"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=akshhthakkar&theme=dark-smoky&hide_border=false&border=444444&cache_seconds=172800"
-    alt="GitHub Streak"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C71F2,100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I%E2%80%99m%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=1F2328&descAlignY=54&animation=fadeIn&descAlign=50"
+    alt="Footer"
   />
-</p>
-
-> Stats sometimes nap. Shipping doesn’t.
-
----
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=akshhthakkar&color=blueviolet&style=flat-square"
-    alt="Profile views"
-  />
-</p>
+</picture>
