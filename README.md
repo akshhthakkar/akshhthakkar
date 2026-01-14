@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3200&pause=1400&color=6B7280&center=true&vCenter=true&width=900&lines=Make+it+work%2C+then+make+it+right%2C+then+make+it+fast." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3200&pause=1400&color=6B7280&center=true&vCenter=true&width=900&lines=Make+it+work%2C+then+make+it+right%2C+then+make+it+fast."
+    alt="Typing SVG"
+  />
 </p>
 
 # 💫 About Me
@@ -45,11 +48,17 @@ Currently working on **Slotify** — a centralized appointment booking platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshhthakkar&show_icons=true&theme=transparent&cache_seconds=86400" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=akshhthakkar&show_icons=true&theme=transparent&cache_seconds=172800"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akshhthakkar&theme=dark-smoky&hide_border=false&border=444444&cache_seconds=86400" />
+  <img
+    src="https://streak-stats.demolab.com?user=akshhthakkar&theme=dark-smoky&hide_border=false&border=444444&cache_seconds=172800"
+    alt="GitHub Streak"
+  />
 </p>
 
 > Stats sometimes nap. Shipping doesn’t.
@@ -57,5 +66,8 @@ Currently working on **Slotify** — a centralized appointment booking platform.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshhthakkar&color=blueviolet&style=flat-square" />
+  <img
+    src="https://komarev.com/ghpvc/?username=akshhthakkar&color=blueviolet&style=flat-square"
+    alt="Profile views"
+  />
 </p>
