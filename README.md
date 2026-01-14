@@ -67,21 +67,17 @@ Currently working on **Slotify** — a centralized appointment booking platform.
     srcset="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F"
     media="(prefers-color-scheme: dark)"
   />
+  <picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F"
+    media="(prefers-color-scheme: dark)"
+  />
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=default&hide_border=true&background=F6F8FA"
     height="190"
     alt="GitHub Streak"
   />
 </picture>
-</div>
 
-<picture>
-  <source
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:C7154A,100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I%E2%80%99m%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=efefef&descAlignY=54&animation=fadeIn&descAlign=50"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C71F2,100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I%E2%80%99m%20just%20an%20email%20away%20%F0%9F%93%A9&descSize=14&fontColor=1F2328&descAlignY=54&animation=fadeIn&descAlign=50"
-    alt="Footer"
-  />
 </picture>
+</div>
