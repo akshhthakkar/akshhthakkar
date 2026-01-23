@@ -48,36 +48,40 @@ Currently working on **Slotify** — a centralized appointment booking platform.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api?username=akshhthakkar&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=86400"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=akshhthakkar&show_icons=true&theme=default&hide_border=true&bg_color=F6F8FA&cache_seconds=86400"
-      height="190"
-      alt="GitHub Stats"
-    />
-  </picture>
-
-  <picture>
+<picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F"
-    media="(prefers-color-scheme: dark)"
-  />
-  <picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F"
+    srcset="https://github-readme-stats-gamma-lilac.vercel.app/api?username=akshhthakkar&show_icons=true&theme=react&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=default&hide_border=true&background=F6F8FA"
+    src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=akshhthakkar&show_icons=true&theme=default&hide_border=true"
+    height="190"
+    alt="GitHub Stats"
+  />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=react&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=default&hide_border=true"
     height="190"
     alt="GitHub Streak"
   />
 </picture>
 
-</picture>
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/akshhthakkar/akshhthakkar/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
+</p>
