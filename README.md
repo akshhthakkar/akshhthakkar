@@ -47,41 +47,48 @@ Currently working on **Slotify** — a centralized appointment booking platform.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-gamma-lilac.vercel.app/api?username=akshhthakkar&show_icons=true&theme=react&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=akshhthakkar&show_icons=true&theme=default&hide_border=true"
-    height="190"
-    alt="GitHub Stats"
-  />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=react&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=default&hide_border=true"
-    height="190"
-    alt="GitHub Streak"
-  />
-</picture>
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats-gamma-lilac.vercel.app/api?username=akshhthakkar&show_icons=true&theme=react&hide_border=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img
+          src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=akshhthakkar&show_icons=true&theme=default&hide_border=true"
+          height="180"
+          alt="GitHub Stats"
+        />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=react&hide_border=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=default&hide_border=true"
+          height="180"
+          alt="GitHub Streak"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/akshhthakkar/akshhthakkar/output/github-contribution-grid-snake-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
   <img
     src="https://raw.githubusercontent.com/akshhthakkar/akshhthakkar/output/github-contribution-grid-snake.svg"
     alt="Snake animation"
   />
-</p>
+</picture>
