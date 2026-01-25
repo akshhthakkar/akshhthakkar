@@ -51,12 +51,10 @@ Currently working on **Slotify** — a centralized appointment booking platform.
   <img
     src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=akshhthakkar&show_icons=true&theme=react&hide_border=true"
     height="180"
-    alt="GitHub Stats"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=react&hide_border=true"
     height="180"
-    alt="GitHub Streak"
   />
 </div>
 
