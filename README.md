@@ -50,20 +50,4 @@ Currently working on **Slotify** — a centralized appointment booking platform.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshhthakkar&theme=react-dark&hide_border=true" />
 
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=akshhthakkar&theme=react&hide_border=true"
-    height="180"
-  />
-</div>
-
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/akshhthakkar/akshhthakkar/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake"
-  />
-</p>
