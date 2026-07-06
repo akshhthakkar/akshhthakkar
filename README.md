@@ -1,21 +1,10 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3200&pause=1400&color=6B7280&center=true&vCenter=true&width=900&lines=Make+it+work%2C+then+make+it+right%2C+then+make+it+fast."
-    alt="Typing SVG"
-  />
-</p>
-
 # 💫 About Me
 
-I'm a 3rd-year **B.Tech. Computer Science & Engineering** student.  
-Passionate about tech, obsessed with fundamentals, and learning by building real stuff.
+Hi 👋
 
-Currently working on **Slotify** — a centralized appointment booking platform.
+I'm Aksh, a Computer Science student who enjoys building software and learning by creating projects.
 
+Right now I'm focused on full-stack development, backend engineering, and ServiceNow. I'm always working on something new and trying to become a better engineer every day.
 ---
 
 ## 🌐 Socials
